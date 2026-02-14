@@ -9,7 +9,5 @@ Seoul National University of Science and Technology (SeoulTech)
 **Email:** [gwlim3012@gmail.com](mailto:gwlim3012@gmail.com)<br><br>
 
 ### GitHub Activities
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gwlim3012&show_icons=true&theme=radical" alt="Gyuwon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwlim3012&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwlim3012&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwlim3012&size_weight=0.5&count_weight=0.5)
