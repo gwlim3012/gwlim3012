@@ -17,4 +17,7 @@ Applied Artificial Intelligence | Minor in Intelligent Semiconductor Engineering
 [![Email Badge](https://img.shields.io/badge/Gmail-gwlim3012@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gwlim3012@gmail.com)
 [![Profile Badge](https://img.shields.io/badge/Profile-gwlim3012.github.io-0078d7?style=flat-square&logo=GitHub-Pages&logoColor=white)](https://gwlim3012.github.io/)
 
+---
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gwlim3012)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
