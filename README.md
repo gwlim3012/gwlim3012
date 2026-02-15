@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=80&section=header&text=Gyuwon%20Lim&fontSize=25&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=120&section=header&text=Gyuwon%20Lim&fontSize=25&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 Hi, there👋 <br><br>
 I'm an undergraduate student interested in **efficient AI systems, on-device AI, and model compression**.
@@ -14,6 +14,6 @@ Major in Applied Artificial Intelligence <br>
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=tistory&logoColor=white)](https://gwlim3012.tistory.com/)
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=80&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=120&section=footer&animation=fadeIn)
 
 </div>
