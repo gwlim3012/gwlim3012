@@ -5,6 +5,6 @@ I'm an undergraduate student interested in efficient AI systems, on-device AI, a
 <br><br>
 🎓 Applied Artificial Intelligence, SeoulTech · Minor in Intelligent Semiconductor Engineering (4th year)
 <br><br>
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwlim3012@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwlim3012@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://gwlim3012.github.io/)
 <br><br><br><br>
