@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:303030,100:000000&height=120&section=header&text=Gyuwon%20Lim&fontSize=25&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 Hi, there👋 <br><br>
-I'm an undergraduate student interested in **efficient AI systems, on-device AI, and model compression**.
+I'm a student interested in **efficient AI systems, on-device AI, and model compression**.
 <br><br>
 🏫 Seoul National University of Science and Technology (SeoulTech) · 4th Year Undergraduate <br><br>
 Major in Applied Artificial Intelligence <br>
