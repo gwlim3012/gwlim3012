@@ -15,6 +15,6 @@ I'm a student interested in **on-device AI and efficient AI systems**.<br><br>
 <sub>Minor in Intelligent Semiconductor Engineering</sub>
 <br><br>
 
-[![About Me](https://img.shields.io/badge/About_Me_%E2%86%97-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&label=%20)](https://gwlim3012.github.io/profile)
-<br><br>
+<!--[![About Me](https://img.shields.io/badge/About_Me_%E2%86%97-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&label=%20)](https://gwlim3012.github.io/profile)
+<br><br>-->
 </div>
